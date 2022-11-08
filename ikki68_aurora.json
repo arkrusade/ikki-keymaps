@@ -106,7 +106,7 @@
       "KC_HOME",
       "KC_UP",
       "KC_END",
-      "KC_PGUP",
+      "KC_VOLU",
       "KC_NO",
       "KC_PAST",
       "KC_P7",
@@ -148,7 +148,7 @@
       "KC_PDOT",
       "KC_RSFT",
       "TO(2)",
-      "KC_PGUP",
+      "KC_VOLU",
       "KC_NO",
       "KC_LCTL",
       "KC_NO",
@@ -163,9 +163,9 @@
       "KC_RALT",
       "TO(0)",
       "KC_RCTL",
-      "KC_HOME",
-      "KC_PGDN",
-      "KC_END"
+      "KC_MPRV",
+      "KC_VOLD",
+      "KC_MNXT"
     ],
     [
       "KC_ESC",
@@ -230,7 +230,7 @@
       "KC_NO",
       "KC_RSFT",
       "TO(3)",
-      "KC_VOLU",
+      "KC_PGUP",
       "KC_NO",
       "KC_LCTL",
       "KC_NO",
@@ -245,9 +245,9 @@
       "KC_RALT",
       "KC_NO",
       "TO(0)",
-      "KC_MPRV",
-      "KC_VOLD",
-      "KC_MNXT"
+      "KC_HOME",
+      "KC_PGDN",
+      "KC_END"
     ],
     [
       "KC_GRV",
